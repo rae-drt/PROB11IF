@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Single Image Example"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1",
+      "type": "Canvas",
+      "height": 1800,
+      "width": 1200,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://github.com/rae-drt/PROB11IF/blob/main/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png",
+                "type": "Image",
+                "format": "image/png",
+                "height": 1800,
+                "width": 1200
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
