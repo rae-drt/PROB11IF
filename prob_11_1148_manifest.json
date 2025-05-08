@@ -19,11 +19,11 @@
      "type": "AnnotationPage",
      "items": [
       {
-       "id": "https://rae-drt.github.io/PROB11IF/Images/a0974d0ce066e4f25f54db8bedb36e57.png",
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/a0974d0ce066e4f25f54db8bedb36e57.png",
        "type": "Annotation",
        "motivation": "painting",
        "body": {
-        "id": "https://rae-drt.github.io/PROB11IF/Images/a0974d0ce066e4f25f54db8bedb36e57.png",
+        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/a0974d0ce066e4f25f54db8bedb36e57.png",
         "type": "Image",
         "format": "image/png",
         "height": 2476,
