@@ -41,6 +41,40 @@
           "label": {"en":["Text of page  -"]}
         }
       ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2",
+      "type": "Canvas",
+      "height": 2556,
+      "width": 1840,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png",
+                "type": "Image",
+                "format": "image/png",
+                "height": 2556,
+                "width": 1840
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example_2.json",
+          "type": "AnnotationPage",
+          "label": {"en":["Text of page  -"]}
+        }
+      ]
     }
   ]
 }
