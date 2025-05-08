@@ -11,7 +11,7 @@
       "id": "https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png/supplementing/t0",
       "type": "Annotation",
       "motivation": "supplementing",
-      "target": "https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png#xywh=150,198,1204,96"
+      "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1#xywh=150,198,1204,96"
     },
     {
       "body": {
