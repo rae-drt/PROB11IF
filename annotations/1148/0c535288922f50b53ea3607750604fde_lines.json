@@ -11,7 +11,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t0",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=466,1632,1166,44"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=466,1632,1166,44"
   },
   {
    "body": {
@@ -21,7 +21,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t1",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=453,1616,1163,45"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=453,1616,1163,45"
   },
   {
    "body": {
@@ -31,7 +31,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t2",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=456,1648,1192,44"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=456,1648,1192,44"
   },
   {
    "body": {
@@ -41,7 +41,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t3",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=458,1618,1160,41"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=458,1618,1160,41"
   },
   {
    "body": {
@@ -51,7 +51,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t4",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=452,1621,1169,42"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=452,1621,1169,42"
   },
   {
    "body": {
@@ -61,7 +61,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t5",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=458,1621,1163,46"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=458,1621,1163,46"
   },
   {
    "body": {
@@ -71,7 +71,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t6",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=446,1650,1204,46"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=446,1650,1204,46"
   },
   {
    "body": {
@@ -81,7 +81,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t7",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=458,1630,1172,39"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=458,1630,1172,39"
   },
   {
    "body": {
@@ -91,7 +91,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t8",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=452,1633,1181,51"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=452,1633,1181,51"
   },
   {
    "body": {
@@ -101,7 +101,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t9",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=453,1654,1201,49"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=453,1654,1201,49"
   },
   {
    "body": {
@@ -111,7 +111,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t10",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=452,1658,1206,54"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=452,1658,1206,54"
   },
   {
    "body": {
@@ -121,7 +121,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t11",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=450,1639,1189,48"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=450,1639,1189,48"
   },
   {
    "body": {
@@ -131,7 +131,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t12",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=450,1606,1156,43"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=450,1606,1156,43"
   },
   {
    "body": {
@@ -141,7 +141,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t13",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=452,1615,1163,66"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=452,1615,1163,66"
   },
   {
    "body": {
@@ -151,7 +151,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t14",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=446,1638,1192,70"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=446,1638,1192,70"
   },
   {
    "body": {
@@ -161,7 +161,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t15",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=444,1618,1174,51"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=444,1618,1174,51"
   },
   {
    "body": {
@@ -171,7 +171,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t16",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=450,1633,1183,49"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=450,1633,1183,49"
   },
   {
    "body": {
@@ -181,7 +181,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t17",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=444,1630,1186,45"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=444,1630,1186,45"
   },
   {
    "body": {
@@ -191,7 +191,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t18",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=440,1638,1198,39"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=440,1638,1198,39"
   },
   {
    "body": {
@@ -201,7 +201,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t19",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=446,1607,1161,69"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=446,1607,1161,69"
   },
   {
    "body": {
@@ -211,7 +211,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t20",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=435,1618,1183,37"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=435,1618,1183,37"
   },
   {
    "body": {
@@ -221,7 +221,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t21",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=441,1636,1195,47"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=441,1636,1195,47"
   },
   {
    "body": {
@@ -231,7 +231,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t22",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=443,1636,1193,56"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=443,1636,1193,56"
   },
   {
    "body": {
@@ -241,7 +241,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t23",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=440,1654,1214,34"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=440,1654,1214,34"
   },
   {
    "body": {
@@ -251,7 +251,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t24",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=433,1654,1221,51"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=433,1654,1221,51"
   },
   {
    "body": {
@@ -261,7 +261,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t25",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=441,1625,1184,33"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=441,1625,1184,33"
   },
   {
    "body": {
@@ -271,7 +271,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t26",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=438,1650,1212,43"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=438,1650,1212,43"
   },
   {
    "body": {
@@ -281,7 +281,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t27",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=435,1621,1186,45"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=435,1621,1186,45"
   },
   {
    "body": {
@@ -291,7 +291,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t28",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=429,1656,1227,57"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=429,1656,1227,57"
   },
   {
    "body": {
@@ -301,7 +301,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t29",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=435,1636,1201,58"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=435,1636,1201,58"
   },
   {
    "body": {
@@ -311,7 +311,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t30",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=433,1635,1202,54"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=433,1635,1202,54"
   },
   {
    "body": {
@@ -321,7 +321,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t31",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=438,1612,1174,50"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=438,1612,1174,50"
   },
   {
    "body": {
@@ -331,7 +331,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t32",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=438,1622,1184,62"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=438,1622,1184,62"
   },
   {
    "body": {
@@ -341,7 +341,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t33",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=433,1639,1206,51"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=433,1639,1206,51"
   },
   {
    "body": {
@@ -351,7 +351,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t34",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=432,1625,1193,52"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=432,1625,1193,52"
   },
   {
    "body": {
@@ -361,7 +361,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t35",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=427,1639,1212,51"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=427,1639,1212,51"
   },
   {
    "body": {
@@ -371,7 +371,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t36",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=435,1625,1190,48"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=435,1625,1190,48"
   },
   {
    "body": {
@@ -381,7 +381,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t37",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=426,1616,1190,45"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=426,1616,1190,45"
   },
   {
    "body": {
@@ -391,7 +391,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t38",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=424,1629,1205,46"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=424,1629,1205,46"
   },
   {
    "body": {
@@ -401,7 +401,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t39",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=427,1606,1179,46"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=427,1606,1179,46"
   },
   {
    "body": {
@@ -411,7 +411,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t40",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=424,1612,1188,47"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=424,1612,1188,47"
   },
   {
    "body": {
@@ -421,7 +421,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t41",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=426,1639,1213,51"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=426,1639,1213,51"
   },
   {
    "body": {
@@ -431,7 +431,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t42",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=433,1616,1183,49"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=433,1616,1183,49"
   },
   {
    "body": {
@@ -441,7 +441,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t43",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=424,1622,1198,50"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=424,1622,1198,50"
   },
   {
    "body": {
@@ -451,7 +451,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t44",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=424,1612,1188,49"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=424,1612,1188,49"
   },
   {
    "body": {
@@ -461,7 +461,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t45",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=427,1633,1206,61"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=427,1633,1206,61"
   },
   {
    "body": {
@@ -471,7 +471,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t46",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=418,1632,1214,65"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=418,1632,1214,65"
   },
   {
    "body": {
@@ -481,7 +481,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t47",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=418,1609,1191,64"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=418,1609,1191,64"
   },
   {
    "body": {
@@ -491,7 +491,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t48",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=415,1590,1175,59"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=415,1590,1175,59"
   },
   {
    "body": {
@@ -501,7 +501,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t49",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=418,1632,1214,58"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=418,1632,1214,58"
   },
   {
    "body": {
@@ -511,7 +511,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t50",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=418,1595,1177,67"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=418,1595,1177,67"
   },
   {
    "body": {
@@ -521,7 +521,7 @@
    "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t51",
    "type": "Annotation",
    "motivation": "supplementing",
-   "target": "https://example.org/iiif/tna/prob/11/1148//canvas/p1#xywh=424,1616,1192,49"
+   "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1#xywh=424,1616,1192,49"
   }
  ]
 }
