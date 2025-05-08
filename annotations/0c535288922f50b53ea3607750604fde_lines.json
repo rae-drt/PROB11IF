@@ -1,0 +1,527 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://example.org/iiif/tna/prob/11/1148/0c535288922f50b53ea3607750604fde/line",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "body": {
+    "value": "Moses five hundred pounds other part thereof To my",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=466,1632,1166,44"
+  },
+  {
+   "body": {
+    "value": "Niece the Countess of Harborough three hundred pounds",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=453,1616,1163,45"
+  },
+  {
+   "body": {
+    "value": "other part thereof To my said Niece Lady Etherington",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=456,1648,1192,44"
+  },
+  {
+   "body": {
+    "value": "two hundred pounds other part thereof To my said",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=458,1618,1160,41"
+  },
+  {
+   "body": {
+    "value": "Nephew Charles Cave one hundred pounds other part",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=452,1621,1169,42"
+  },
+  {
+   "body": {
+    "value": "thereof and to the said sir Thomas Halliface three",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=458,1621,1163,46"
+  },
+  {
+   "body": {
+    "value": "hundred and eight pounds eleven shillings residue of the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=446,1650,1204,46"
+  },
+  {
+   "body": {
+    "value": "said three thousand two hundred and eight pounds",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=458,1630,1172,39"
+  },
+  {
+   "body": {
+    "value": "eleven shillings Bank Annuities I Give and devise all",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=452,1633,1181,51"
+  },
+  {
+   "body": {
+    "value": "that my Copyhold Estate in Ewell aforesaid called Monks",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=453,1654,1201,49"
+  },
+  {
+   "body": {
+    "value": "and also all that one Rood of ffreehold Land in Ewell",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=452,1658,1206,54"
+  },
+  {
+   "body": {
+    "value": "aforesaid purchased by me of William Solliffe Esquire",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=450,1639,1189,48"
+  },
+  {
+   "body": {
+    "value": "in or about the year 1771 and all my Estate and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=450,1606,1156,43"
+  },
+  {
+   "body": {
+    "value": "Interest in and to the said Copyhold and ffreehold",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=452,1615,1163,66"
+  },
+  {
+   "body": {
+    "value": "premises respectively with their respective Appurtenances",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=446,1638,1192,70"
+  },
+  {
+   "body": {
+    "value": "unto such person and persons and for such Estate and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=444,1618,1174,51"
+  },
+  {
+   "body": {
+    "value": "Estates as the House I now inhabit in Ewell aforesaid",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=450,1633,1183,49"
+  },
+  {
+   "body": {
+    "value": "stands limited unto by the Will of my late dearly",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=444,1630,1186,45"
+  },
+  {
+   "body": {
+    "value": "beloved affectionate and ever Valued Husband Richard",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=440,1638,1198,39"
+  },
+  {
+   "body": {
+    "value": "Thomson Esquire I Give all my China Ware (late M",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=446,1607,1161,69"
+  },
+  {
+   "body": {
+    "value": "Lovetto the two persia Carpeto late Mrs Lovetto the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=435,1618,1183,37"
+  },
+  {
+   "body": {
+    "value": "portrait of Mr Thomson and myself in one frame the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=441,1636,1195,47"
+  },
+  {
+   "body": {
+    "value": "portraits of my late Brother Verney Cave and fury",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=443,1636,1193,56"
+  },
+  {
+   "body": {
+    "value": "sister Pirsworth and my repeating Clock and India Cobinet",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=440,1654,1214,34"
+  },
+  {
+   "body": {
+    "value": "to the said Countess of Harborough I Give my Harperchord",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=433,1654,1221,51"
+  },
+  {
+   "body": {
+    "value": "and Music Books and also the Walmittree Book Case",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=441,1625,1184,33"
+  },
+  {
+   "body": {
+    "value": "and Drawers in my Chamber to Lady Cave I Give my",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=438,1650,1212,43"
+  },
+  {
+   "body": {
+    "value": "Gold Watch Chain and Seals and the Bureau in the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=435,1621,1186,45"
+  },
+  {
+   "body": {
+    "value": "Dresin Room to the said Charles Cave I Give my Diamond",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=429,1656,1227,57"
+  },
+  {
+   "body": {
+    "value": "Howo Ring my Ebony Cabinet and Dressing Box in laid",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=435,1636,1201,58"
+  },
+  {
+   "body": {
+    "value": "and also my Gosewood Cabinet to the said Isabella",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=433,1635,1202,54"
+  },
+  {
+   "body": {
+    "value": "Cave I Give my sable Muff and Tippett to the said",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=438,1612,1174,50"
+  },
+  {
+   "body": {
+    "value": "Ann Marriott I Give my broadest Sable Tippett to the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=438,1622,1184,62"
+  },
+  {
+   "body": {
+    "value": "said Lady Etherington I Give to the said Jonathan Lovett",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=433,1639,1206,51"
+  },
+  {
+   "body": {
+    "value": "my liftle Clock and Case on a pedestal in the little o",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=432,1625,1193,52"
+  },
+  {
+   "body": {
+    "value": "back parlour and also my pair of high silver Candlesticks",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=427,1639,1212,51"
+  },
+  {
+   "body": {
+    "value": "mulld I Give to the said Margaret Moses my White",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=435,1625,1190,48"
+  },
+  {
+   "body": {
+    "value": "Dimity Bod and Bedding widow Chrtains and Chairs and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=426,1616,1190,45"
+  },
+  {
+   "body": {
+    "value": "aso the Bureau and Book Case in the Nrawing Room I",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=424,1629,1205,46"
+  },
+  {
+   "body": {
+    "value": "Give the portrait in Muniture of Mr Thomasn to the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=427,1606,1179,46"
+  },
+  {
+   "body": {
+    "value": "said John Mayer I Give the portrait of Matthew",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=424,1612,1188,47"
+  },
+  {
+   "body": {
+    "value": "Skinner Esquire to his Daughter Miss Skinner I Give all",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=426,1639,1213,51"
+  },
+  {
+   "body": {
+    "value": "the printed Books which are Comprized in the Catalogue",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=433,1616,1183,49"
+  },
+  {
+   "body": {
+    "value": "containing mineteen pages and signer by me and all my",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=424,1622,1198,50"
+  },
+  {
+   "body": {
+    "value": "Household Goods and ffurniture Linen excepted China",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=424,1612,1188,49"
+  },
+  {
+   "body": {
+    "value": "pictures Portrarto prints and Arms (not otherwise herein",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=427,1633,1206,61"
+  },
+  {
+   "body": {
+    "value": "by me disposed of to the said John Mayer I Give to",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=418,1632,1214,65"
+  },
+  {
+   "body": {
+    "value": "Lady Barborough Lady Etherington Margaret Moses and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=418,1609,1191,64"
+  },
+  {
+   "body": {
+    "value": "Ann Marriott one hundred pounds each over and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=415,1590,1175,59"
+  },
+  {
+   "body": {
+    "value": "above what I have herein before given them I give",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=418,1632,1214,58"
+  },
+  {
+   "body": {
+    "value": "to Mrs Palmer Widow of the late Ralph Palmer",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=418,1595,1177,67"
+  },
+  {
+   "body": {
+    "value": "Esquire one hundred pounds I Give to Thomas and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png/supplementing/t51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=424,1616,1192,49"
+  }
+ ]
+}
