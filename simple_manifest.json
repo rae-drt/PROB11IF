@@ -11,8 +11,8 @@
     {
       "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1",
       "type": "Canvas",
-      "height": 1800,
-      "width": 1200,
+      "height": 2556,
+      "width": 1840,
       "items": [
         {
           "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p1/1",
