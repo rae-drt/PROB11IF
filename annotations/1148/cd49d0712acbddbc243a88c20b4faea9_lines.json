@@ -1,0 +1,507 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://example.org/iiif/tna/prob/11/1148/cd49d0712acbddbc243a88c20b4faea9/line",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "body": {
+    "value": "for the benefit of the Children of the said Robert",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=372,1513,1141,67"
+  },
+  {
+   "body": {
+    "value": "Lovett in such manner as in my said Will is mentioned",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=361,1575,1214,49"
+  },
+  {
+   "body": {
+    "value": "now I do hereby revoke the said Bequest of one",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=360,1532,1172,40"
+  },
+  {
+   "body": {
+    "value": "thousand five hundred pounds Bank Annuities and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=358,1525,1167,33"
+  },
+  {
+   "body": {
+    "value": "I hereby Give to my said Executor one thousand pounds",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=357,1558,1201,63"
+  },
+  {
+   "body": {
+    "value": "of the said Bank Annuities In Trust and for the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=349,1523,1174,56"
+  },
+  {
+   "body": {
+    "value": "benefit of all the unmarried Children of the said",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=352,1548,1196,26"
+  },
+  {
+   "body": {
+    "value": "Robert Lovett and to be paid them in such manner",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=343,1528,1185,47"
+  },
+  {
+   "body": {
+    "value": "and at such time as in my said Will I have directed",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=349,1558,1209,48"
+  },
+  {
+   "body": {
+    "value": "touching the said one thousand five hundred pounds",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=346,1517,1171,65"
+  },
+  {
+   "body": {
+    "value": "annuities I Give to Sir Thomas Wallifax in my said",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=346,1531,1185,58"
+  },
+  {
+   "body": {
+    "value": "will named two hundred pounds over and above what",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=342,1541,1199,44"
+  },
+  {
+   "body": {
+    "value": "I have given him in and by my said Will I Give",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=343,1546,1203,48"
+  },
+  {
+   "body": {
+    "value": "Sarah Barthum now my upper maid servant",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=391,1526,1135,40"
+  },
+  {
+   "body": {
+    "value": "fifty pounds (instead of the forty pounds given herby",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=342,1532,1190,64"
+  },
+  {
+   "body": {
+    "value": "my said Will besides Mourning and such wages as",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=335,1514,1179,43"
+  },
+  {
+   "body": {
+    "value": "may be due to her at my death in case she be living",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=340,1541,1201,68"
+  },
+  {
+   "body": {
+    "value": "with me at my decease I Give to my House Maid",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=340,1538,1198,59"
+  },
+  {
+   "body": {
+    "value": "Mary Chappell twenty pounds besides Mourning and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=343,1532,1189,38"
+  },
+  {
+   "body": {
+    "value": "such wages as may be due to her at my death",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=342,1516,1174,37"
+  },
+  {
+   "body": {
+    "value": "incase she be living with me at my decease I Give",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=335,1522,1187,49"
+  },
+  {
+   "body": {
+    "value": "to my present Cook twenty pounds besides Mourning",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=342,1516,1174,51"
+  },
+  {
+   "body": {
+    "value": "and such Wages as may be due to her at my death",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=337,1548,1211,46"
+  },
+  {
+   "body": {
+    "value": "in case she be living with me at my decease and I",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=342,1526,1184,39"
+  },
+  {
+   "body": {
+    "value": "hereby Ratify and confirm my said Will in all",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=335,1508,1173,44"
+  },
+  {
+   "body": {
+    "value": "respects in which the same is not varied hereby In",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=335,1504,1169,60"
+  },
+  {
+   "body": {
+    "value": "Witness whereof I the said Penelope Thomson have hereto",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=331,1516,1185,62"
+  },
+  {
+   "body": {
+    "value": "set my hand and seal the third day of April in the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=331,1517,1186,52"
+  },
+  {
+   "body": {
+    "value": "year of our Lord one thousand seven hundred and eighty",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=329,1534,1205,38"
+  },
+  {
+   "body": {
+    "value": "three Peneloke Thomson Signed Sealed published and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=329,1526,1197,46"
+  },
+  {
+   "body": {
+    "value": "declared by the said penelope Thomson as a Codicil to",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=328,1522,1194,58"
+  },
+  {
+   "body": {
+    "value": "her last Will and Testament in the presence of us John",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=322,1514,1192,41"
+  },
+  {
+   "body": {
+    "value": "Monger Daniel Martin",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=326,908,582,50"
+  },
+  {
+   "body": {
+    "value": "I Benelope Thomson of Ewell",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=355,1504,1149,79"
+  },
+  {
+   "body": {
+    "value": "in the County of Surry Widow do hereby declare this",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=331,1517,1186,41"
+  },
+  {
+   "body": {
+    "value": "writing to be a Codicil to be deemed and taken as",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=329,1489,1160,42"
+  },
+  {
+   "body": {
+    "value": "part of my last Will and Testament bearing date on",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=329,1496,1167,53"
+  },
+  {
+   "body": {
+    "value": "or about the twenty ninth day of November one",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=323,1483,1160,42"
+  },
+  {
+   "body": {
+    "value": "thousand seven hundred and eighty whereas in and by",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=322,1508,1186,65"
+  },
+  {
+   "body": {
+    "value": "my said Will I have given and bequeathed (after the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=328,1520,1192,39"
+  },
+  {
+   "body": {
+    "value": "decease of Sir Thomas Hallifax therein mentioned One",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=323,1495,1172,50"
+  },
+  {
+   "body": {
+    "value": "thousand five hundred pounds part of the Capital sum",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=320,1522,1202,57"
+  },
+  {
+   "body": {
+    "value": "of three thousand two hundred and eight pounds eleven",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=320,1516,1196,46"
+  },
+  {
+   "body": {
+    "value": "shillings three per Cent Consolidated Bank Annuities in",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=323,1516,1193,37"
+  },
+  {
+   "body": {
+    "value": "my said Will mentioned to John Mayer Esquire eldest",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=322,1520,1198,52"
+  },
+  {
+   "body": {
+    "value": "Son of the late Mr Alderman Mayer of the City of",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=320,1501,1181,56"
+  },
+  {
+   "body": {
+    "value": "York now I do hereby revoke the said Bequest of one",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=320,1490,1170,47"
+  },
+  {
+   "body": {
+    "value": "thousand five hundred pounds Annuities to the said John",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=317,1496,1179,43"
+  },
+  {
+   "body": {
+    "value": "Mayer as aforesaid and in here thereof I do hereby Give",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=320,1528,1208,45"
+  },
+  {
+   "body": {
+    "value": "and Bequeath unto the said John Mayer two hundred",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png/supplementing/t49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=317,1502,1185,37"
+  }
+ ]
+}

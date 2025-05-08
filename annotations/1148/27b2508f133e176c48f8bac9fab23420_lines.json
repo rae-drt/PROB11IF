@@ -1,0 +1,537 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://example.org/iiif/tna/prob/11/1148/27b2508f133e176c48f8bac9fab23420/line",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "body": {
+    "value": "Sarah Cave the Son and Daughter of my late Nephew",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=281,1454,1173,56"
+  },
+  {
+   "body": {
+    "value": "Sir Thomas Cave one hundred pounds each and direct",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=281,1466,1185,43"
+  },
+  {
+   "body": {
+    "value": "that the Receipt of their Mother the said Mary Cave",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=278,1472,1194,44"
+  },
+  {
+   "body": {
+    "value": "shall be a sufficient discharge to my Executors for the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=280,1464,1184,50"
+  },
+  {
+   "body": {
+    "value": "said Sums notwithstanding their Infaucy I Give to",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=280,1442,1162,45"
+  },
+  {
+   "body": {
+    "value": "Robert Lovett of the Cristom House Dublin Esquire one",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=275,1452,1177,44"
+  },
+  {
+   "body": {
+    "value": "thousand pounds I Give to my Executor hereinafter",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=281,1454,1173,39"
+  },
+  {
+   "body": {
+    "value": "named one thousand five hundred pounds three per",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=280,1457,1177,44"
+  },
+  {
+   "body": {
+    "value": "Cent Consolidated Bank Annuities In Trust to pay and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1484,1210,59"
+  },
+  {
+   "body": {
+    "value": "apply the Interest thereof for and towards the maintenance",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=269,1484,1215,40"
+  },
+  {
+   "body": {
+    "value": "and Education of all the Children which the said Robert",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=275,1448,1173,45"
+  },
+  {
+   "body": {
+    "value": "Lovett now hath or hereafter shall have until they",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=275,1445,1170,39"
+  },
+  {
+   "body": {
+    "value": "shall severally attain their age of twenty one years",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1445,1171,46"
+  },
+  {
+   "body": {
+    "value": "and upon further Trust to pay and Transfer the said",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=275,1467,1192,44"
+  },
+  {
+   "body": {
+    "value": "one thousand five hundred pounds Bank Annuities",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1454,1182,24"
+  },
+  {
+   "body": {
+    "value": "unto all the said Children equally between them share",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=269,1480,1211,42"
+  },
+  {
+   "body": {
+    "value": "and share alike at their Respective ages of twenty",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1421,1147,58"
+  },
+  {
+   "body": {
+    "value": "one years and in case any of them shall die before",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1446,1172,45"
+  },
+  {
+   "body": {
+    "value": "that age then the share or shares of such Child",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1460,1188,53"
+  },
+  {
+   "body": {
+    "value": "or Children so dying to go and belong unto the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1464,1192,50"
+  },
+  {
+   "body": {
+    "value": "Survivors of them equally between them and to be",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=275,1464,1189,50"
+  },
+  {
+   "body": {
+    "value": "paid and Transferred at the same age and if but",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1446,1172,59"
+  },
+  {
+   "body": {
+    "value": "one such Child then the whole to such only Child to",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1464,1192,43"
+  },
+  {
+   "body": {
+    "value": "be paid or Transferred to him or her at the age",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1460,1188,42"
+  },
+  {
+   "body": {
+    "value": "of twenty one years and in case no such Child shall",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=269,1446,1177,41"
+  },
+  {
+   "body": {
+    "value": "live to attain that age then the said one thousand",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1469,1197,48"
+  },
+  {
+   "body": {
+    "value": "five hundred pounds three per Cent Annuities to be",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=281,1473,1192,50"
+  },
+  {
+   "body": {
+    "value": "considered as part of the residue of my personal Estate",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1483,1209,49"
+  },
+  {
+   "body": {
+    "value": "I Give to my said Executor one thousand pounds ad",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=278,1472,1194,39"
+  },
+  {
+   "body": {
+    "value": "South Sea Annuities In Trust to pay and apply the",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=269,1470,1201,45"
+  },
+  {
+   "body": {
+    "value": "Interest thereof for and towards the Maintenance and",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=278,1454,1176,33"
+  },
+  {
+   "body": {
+    "value": "Education of Mary Lovett Spinster the Infaut Daughter",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1478,1204,49"
+  },
+  {
+   "body": {
+    "value": "of John Lavett late of the Grenades Surgeon deceased",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=269,1448,1179,40"
+  },
+  {
+   "body": {
+    "value": "until she shall attain the age of twenty one years",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1458,1184,49"
+  },
+  {
+   "body": {
+    "value": "and then to pay or Transfer the said one thousand",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=267,1467,1200,43"
+  },
+  {
+   "body": {
+    "value": "pounds South sea Annuities to the said Mary Lovett",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1458,1184,57"
+  },
+  {
+   "body": {
+    "value": "and in case of her death before that age then the said",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=267,1469,1202,46"
+  },
+  {
+   "body": {
+    "value": "one thousand pounds south sea Annuities to be considered",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1484,1212,43"
+  },
+  {
+   "body": {
+    "value": "as part of the residue of my personal Estate I Give",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=266,1478,1212,41"
+  },
+  {
+   "body": {
+    "value": "to my said Niece Ann Marriott the sum of one",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=278,1472,1194,41"
+  },
+  {
+   "body": {
+    "value": "thousand pounds over and above what I have hereinbefore",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1476,1204,54"
+  },
+  {
+   "body": {
+    "value": "given her I Give to the said Matthew Skinner two",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1458,1184,37"
+  },
+  {
+   "body": {
+    "value": "hundred pounds I Give to Helena ffendall one hundred",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=272,1463,1191,52"
+  },
+  {
+   "body": {
+    "value": "Guineas I Give to Mrs Elizabeth Brown fifty pounds",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=266,1448,1182,53"
+  },
+  {
+   "body": {
+    "value": "I Give to my Executor twenty pounds In Trust to be",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1463,1189,48"
+  },
+  {
+   "body": {
+    "value": "applied by him in Cloathing poor Widows and Children of",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=263,1466,1203,52"
+  },
+  {
+   "body": {
+    "value": "the parish of Ewell aforesaid I Give to my Executor",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=266,1440,1174,47"
+  },
+  {
+   "body": {
+    "value": "In Chale",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=541,630,89,32"
+  },
+  {
+   "body": {
+    "value": "thirty pounds to be applied by him in Coals at two",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=266,1442,1176,36"
+  },
+  {
+   "body": {
+    "value": "Chaldron a year for the benefit of poor ffamilys in",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=263,1457,1194,46"
+  },
+  {
+   "body": {
+    "value": "the said parish of Ewell at his discretion I Give to",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=269,1446,1177,40"
+  },
+  {
+   "body": {
+    "value": "the poor of Swinford and stanford in Leicestershire ten",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=267,1439,1172,50"
+  },
+  {
+   "body": {
+    "value": "pounds each to be disposed of by and at the discretion of",
+    "type": "TextualBody"
+   },
+   "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png/supplementing/t52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2#xywh=274,1460,1186,56"
+  }
+ ]
+}
