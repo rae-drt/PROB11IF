@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/annotations/v3/1148/42c4d1ed42757f7dcb05d8c16e0c0e56/line",
+  "id": "https://example.org/annotations/v3/1148/0b87d2840f6a820e46b44053e75ea6c4/line",
   "type": "AnnotationPage",
   "items": [
     {
