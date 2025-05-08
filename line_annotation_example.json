@@ -1,0 +1,28 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/annotations/v3/1148/42c4d1ed42757f7dcb05d8c16e0c0e56/line",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "body": {
+        "value": "due from me to him as a ffriend he was ever to",
+        "type": "TextualBody"
+      },
+      "id": "https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png/supplementing/t0",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "#https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png#xywh=150,198,1204,96"
+    },
+    {
+      "body": {
+        "value": "me the firmest in him I ever found a parent",
+        "type": "TextualBody"
+      },
+      "id": "https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png/supplementing/t1",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "target": "#https://rae-drt.github.io/PROB11IF/Images/42c4d1ed42757f7dcb05d8c16e0c0e56.png#xywh=150,198,1204,96"
+    }
+  ]
+}
+
