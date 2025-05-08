@@ -33,6 +33,13 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+          "type": "AnnotationPage",
+          "label": {"en":["Text of page  -"]}
+        }
       ]
     }
   ]
