@@ -1,0 +1,202 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://example.org/iiif/tna/prob/11/1148/prob_11_1148_manifest.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "PROB 11/1148/"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://example.org/iiif/tna/prob/11/1148/canvas/p0",
+   "type": "Canvas",
+   "height": 2476,
+   "width": 1968,
+   "items": [
+    {
+     "id": "https://example.org/iiif/tna/prob/11/1148//page/p0/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://rae-drt.github.io/PROB11IF/Images/a0974d0ce066e4f25f54db8bedb36e57.png",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://rae-drt.github.io/PROB11IF/Images/a0974d0ce066e4f25f54db8bedb36e57.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 2476,
+        "width": 1968
+       },
+       "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p0"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "type": "AnnotationPage",
+     "label": {
+      "en": [
+       "Text of page  -"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://example.org/iiif/tna/prob/11/1148/canvas/p1",
+   "type": "Canvas",
+   "height": 2468,
+   "width": 1920,
+   "items": [
+    {
+     "id": "https://example.org/iiif/tna/prob/11/1148//page/p1/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 2468,
+        "width": 1920
+       },
+       "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p1"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "type": "AnnotationPage",
+     "label": {
+      "en": [
+       "Text of page  -"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://example.org/iiif/tna/prob/11/1148/canvas/p2",
+   "type": "Canvas",
+   "height": 2516,
+   "width": 1912,
+   "items": [
+    {
+     "id": "https://example.org/iiif/tna/prob/11/1148//page/p2/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 2516,
+        "width": 1912
+       },
+       "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p2"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "type": "AnnotationPage",
+     "label": {
+      "en": [
+       "Text of page  -"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://example.org/iiif/tna/prob/11/1148/canvas/p3",
+   "type": "Canvas",
+   "height": 2540,
+   "width": 1944,
+   "items": [
+    {
+     "id": "https://example.org/iiif/tna/prob/11/1148//page/p3/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://rae-drt.github.io/PROB11IF/Images/1a615f28c065281653027a03c9f75901.png",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://rae-drt.github.io/PROB11IF/Images/1a615f28c065281653027a03c9f75901.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 2540,
+        "width": 1944
+       },
+       "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p3"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "type": "AnnotationPage",
+     "label": {
+      "en": [
+       "Text of page  -"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "https://example.org/iiif/tna/prob/11/1148/canvas/p4",
+   "type": "Canvas",
+   "height": 2500,
+   "width": 1976,
+   "items": [
+    {
+     "id": "https://example.org/iiif/tna/prob/11/1148//page/p4/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 2500,
+        "width": 1976
+       },
+       "target": "https://example.org/iiif/tna/prob/11/1148/canvas/p4"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "type": "AnnotationPage",
+     "label": {
+      "en": [
+       "Text of page  -"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
