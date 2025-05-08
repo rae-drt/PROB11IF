@@ -45,8 +45,8 @@
     {
       "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2",
       "type": "Canvas",
-      "height": 2556,
-      "width": 1840,
+      "height": 2713,
+      "width": 1864,
       "items": [
         {
           "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p2/1",
@@ -60,8 +60,8 @@
                 "id": "https://rae-drt.github.io/PROB11IF/Images/0b87d2840f6a820e46b44053e75ea6c4.png",
                 "type": "Image",
                 "format": "image/png",
-                "height": 2556,
-                "width": 1840
+                "height": 2713,
+                "width": 1864
               },
               "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2"
             }
