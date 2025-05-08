@@ -36,11 +36,11 @@
    ],
    "annotations": [
     {
-     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "id": "https://raw-githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/annotations/{volume}/{image_hash}_lines.json",
      "type": "AnnotationPage",
      "label": {
       "en": [
-       "Text of page  -"
+       "Text of page {i}"
       ]
      }
     }
@@ -74,11 +74,11 @@
    ],
    "annotations": [
     {
-     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "id": "https://raw-githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/annotations/{volume}/{image_hash}_lines.json",
      "type": "AnnotationPage",
      "label": {
       "en": [
-       "Text of page  -"
+       "Text of page {i}"
       ]
      }
     }
@@ -112,11 +112,11 @@
    ],
    "annotations": [
     {
-     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "id": "https://raw-githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/annotations/{volume}/{image_hash}_lines.json",
      "type": "AnnotationPage",
      "label": {
       "en": [
-       "Text of page  -"
+       "Text of page {i}"
       ]
      }
     }
@@ -150,11 +150,11 @@
    ],
    "annotations": [
     {
-     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "id": "https://raw-githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/annotations/{volume}/{image_hash}_lines.json",
      "type": "AnnotationPage",
      "label": {
       "en": [
-       "Text of page  -"
+       "Text of page {i}"
       ]
      }
     }
@@ -188,11 +188,11 @@
    ],
    "annotations": [
     {
-     "id": "https://raw.githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/line_annotation_example.json",
+     "id": "https://raw-githubusercontent.com/rae-drt/PROB11IF/refs/heads/main/annotations/{volume}/{image_hash}_lines.json",
      "type": "AnnotationPage",
      "label": {
       "en": [
-       "Text of page  -"
+       "Text of page {i}"
       ]
      }
     }
