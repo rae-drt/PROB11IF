@@ -57,11 +57,11 @@
      "type": "AnnotationPage",
      "items": [
       {
-       "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png",
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/0c535288922f50b53ea3607750604fde.png",
        "type": "Annotation",
        "motivation": "painting",
        "body": {
-        "id": "https://rae-drt.github.io/PROB11IF/Images/0c535288922f50b53ea3607750604fde.png",
+        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/0c535288922f50b53ea3607750604fde.png",
         "type": "Image",
         "format": "image/png",
         "height": 2468,
@@ -95,11 +95,11 @@
      "type": "AnnotationPage",
      "items": [
       {
-       "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png",
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/27b2508f133e176c48f8bac9fab23420.png",
        "type": "Annotation",
        "motivation": "painting",
        "body": {
-        "id": "https://rae-drt.github.io/PROB11IF/Images/27b2508f133e176c48f8bac9fab23420.png",
+        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/27b2508f133e176c48f8bac9fab23420.png",
         "type": "Image",
         "format": "image/png",
         "height": 2516,
@@ -133,11 +133,11 @@
      "type": "AnnotationPage",
      "items": [
       {
-       "id": "https://rae-drt.github.io/PROB11IF/Images/1a615f28c065281653027a03c9f75901.png",
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/1a615f28c065281653027a03c9f75901.png",
        "type": "Annotation",
        "motivation": "painting",
        "body": {
-        "id": "https://rae-drt.github.io/PROB11IF/Images/1a615f28c065281653027a03c9f75901.png",
+        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/1a615f28c065281653027a03c9f75901.png",
         "type": "Image",
         "format": "image/png",
         "height": 2540,
@@ -171,11 +171,11 @@
      "type": "AnnotationPage",
      "items": [
       {
-       "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png",
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/cd49d0712acbddbc243a88c20b4faea9.png",
        "type": "Annotation",
        "motivation": "painting",
        "body": {
-        "id": "https://rae-drt.github.io/PROB11IF/Images/cd49d0712acbddbc243a88c20b4faea9.png",
+        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/Images/1148/cd49d0712acbddbc243a88c20b4faea9.png",
         "type": "Image",
         "format": "image/png",
         "height": 2500,
