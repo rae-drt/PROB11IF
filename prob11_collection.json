@@ -1,0 +1,49 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/tna/prob/11",
+  "type": "Collection",
+  "label": {"en":["Prerogative Court of Canterbury Wills (PROB 11)"]},
+  "homepage": [
+    {
+      "id": "https://discovery.nationalarchives.gov.uk/details/r/C12122",
+      "type": "Text",
+      "label": {"en":["PROB 11"]},
+      "format": "text/html",
+      "language": ["en"]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/rae-drt/prob11if/refs/heads/main/prob_11_1148_manifest.json",
+      "type": "Collection",
+      "label": {"en":["Volume 1, 1859"]},
+      "behavior": ["multi-part"],
+      "navDate": "1859-09-15T12:00:00.0000000Z",
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/rae-drt/prob11if/refs/heads/main/prob_11_1148_manifest.json",
+          "type": "Manifest",
+          "label": {"en":["15. September 1859"]},
+          "metadata": [
+            {
+              "label": {"en":["Volume"]},
+              "value": {"none":["1"]}
+            },
+            {
+              "label": {"en":["Year"]},
+              "value": {"none":["1859"]}
+            },
+            {
+              "label": {"en":["Month"]},
+              "value": {"en":["September"]}
+            },
+            {
+              "label": {"en":["DisplayDate"]},
+              "value": {"en":["15. September 1859"]}
+            }
+          ],
+          "navDate": "1859-09-15T12:00:00.0000000Z"
+        }
+        }
+  ]
+}
