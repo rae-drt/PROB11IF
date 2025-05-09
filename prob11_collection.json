@@ -26,28 +26,42 @@
   ],
   "items": [
     {
-       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/manifests/1148/prob_11_1148_manifest.json",
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/manifests/1147/prob_11_1147_manifest.json",
           "type": "Manifest",
-          "label": {"en":["15. September 1859"]},
+          "label": {"en":["PROB 11/1147"]},
           "metadata": [
             {
               "label": {"en":["Volume"]},
-              "value": {"none":["1"]}
+              "value": {"none":["1147"]}
             },
             {
               "label": {"en":["Year"]},
-              "value": {"none":["1859"]}
+              "value": {"none":["1786"]}
+            }
+            {
+              "label": {"en":["DisplayDate"]},
+              "value": {"en":["1786"]}
+            }
+          ]
+        },
+    {
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/manifests/1148/prob_11_1148_manifest.json",
+          "type": "Manifest",
+          "label": {"en":["PROB 11/1148"]},
+          "metadata": [
+            {
+              "label": {"en":["Volume"]},
+              "value": {"none":["1148"]}
             },
             {
-              "label": {"en":["Month"]},
-              "value": {"en":["September"]}
+              "label": {"en":["Year"]},
+              "value": {"none":["1786"]}
             },
             {
               "label": {"en":["DisplayDate"]},
-              "value": {"en":["15. September 1859"]}
+              "value": {"en":["1786"]}
             }
-          ],
-          "navDate": "1859-09-15T12:00:00.0000000Z"
+          ]
         }
   ]
 }
