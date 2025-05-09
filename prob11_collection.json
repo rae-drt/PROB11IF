@@ -14,14 +14,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/rae-drt/prob11if/refs/heads/main/prob_11_1148_manifest.json",
-      "type": "Collection",
-      "label": {"en":["Volume 1, 1859"]},
-      "behavior": ["multi-part"],
-      "navDate": "1859-09-15T12:00:00.0000000Z",
-      "items": [
-        {
-          "id": "https://raw.githubusercontent.com/rae-drt/prob11if/refs/heads/main/prob_11_1148_manifest.json",
+       "id": "https://raw.githubusercontent.com/rae-drt/prob11if/refs/heads/main/prob_11_1148_manifest.json",
           "type": "Manifest",
           "label": {"en":["15. September 1859"]},
           "metadata": [
@@ -44,7 +37,5 @@
           ],
           "navDate": "1859-09-15T12:00:00.0000000Z"
         }
-      ]
-    }
   ]
 }
