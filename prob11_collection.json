@@ -12,6 +12,18 @@
       "language": ["en"]
     }
   ],
+ "service": [
+    {
+      "id": "http://localhost:3000/prob11/search",
+      "type": "SearchService2",
+      "service": [
+        {
+          "id": "http://localhost:3000/prob11/autocomplete",
+          "type": "AutoCompleteService2"
+        }
+      ]
+    }
+  ],
   "items": [
     {
        "id": "https://raw.githubusercontent.com/rae-drt/prob11if/refs/heads/main/prob_11_1148_manifest.json",
