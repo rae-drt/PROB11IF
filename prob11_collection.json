@@ -26,7 +26,7 @@
   ],
   "items": [
     {
-       "id": "https://raw.githubusercontent.com/rae-drt/prob11if/refs/heads/main/prob_11_1148_manifest.json",
+       "id": "https://prob11if.s3.eu-west-2.amazonaws.com/manifests/1148/prob_11_1148_manifest.json",
           "type": "Manifest",
           "label": {"en":["15. September 1859"]},
           "metadata": [
