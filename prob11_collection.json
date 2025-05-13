@@ -3,6 +3,14 @@
   "id": "https://example.org/iiif/tna/prob/11",
   "type": "Collection",
   "label": {"en":["Prerogative Court of Canterbury Wills (PROB 11)"]},
+  "metadata" : [
+    {"label": {"en": ["Attribution and usage"]},
+     "value": {"en": ["The National Archives",
+         "<span>You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons, Attribution, Non-commercial license</a>.<br/><br/>Non-commercial use includes private study, academic research, teaching, and other activities that are not primarily intended for, or directed towards, commercial advantage or private monetary compensation. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to The National Archives.</span>"
+     ]}     
+    },
+      {"label": {"en": ["Copyright note"]}, "value": {"en": ["Crown Copyright."]}}
+  ],
   "homepage": [
     {
       "id": "https://discovery.nationalarchives.gov.uk/details/r/C12122",
