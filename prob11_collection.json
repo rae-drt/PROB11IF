@@ -36,34 +36,7 @@
     {
        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/manifests/1147/prob_11_1147_manifest.json",
           "type": "Manifest",
-          "label": {"en":["PROB 11/1147"]},
-          "metadata": [
-            {
-              "label": {"en":["Volume"]},
-              "value": {"none":["1147"]}
-            },
-            {
-              "label": {"en":["Year"]},
-              "value": {"none":["1786"]}
-            },
-            {
-              "label": {"en":["DisplayDate"]},
-              "value": {"en":["1786"]}
-            },
-            {
-              "label" : {"en" : ["Description"]},
-              "value" : {"en" : ["Name of Register: Norfolk. Quire numbers: 533-588"]}
-            }
-          ],
-          "homepage": [
-                 {           
-                  "id": "https://discovery.nationalarchives.gov.uk/details/r/C1904450",
-                  "type": "Text",
-                  "label": {"en":["PROB 11/1147"]},
-                  "format": "text/html",
-                  "language": ["en"]
-                 }
-          ]
+          "label": {"en":["PROB 11/1147"]}
     },
     {
        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/manifests/1148/prob_11_1148_manifest.json",
