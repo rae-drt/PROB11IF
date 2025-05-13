@@ -45,20 +45,18 @@
             {
               "label" : {"en" : ["Description"]},
               "value" : {"en" : ["Name of Register: Norfolk. Quire numbers: 533-588"]}
-            },
-            {
-              "homepage": [
-                   {           
-                    "id": "https://discovery.nationalarchives.gov.uk/details/r/C1904450",
-                    "type": "Text",
-                    "label": {"en":["PROB 11/1147"]},
-                    "format": "text/html",
-                    "language": ["en"]
-                  }
-              ]
             }
+          ],
+          "homepage": [
+                 {           
+                  "id": "https://discovery.nationalarchives.gov.uk/details/r/C1904450",
+                  "type": "Text",
+                  "label": {"en":["PROB 11/1147"]},
+                  "format": "text/html",
+                  "language": ["en"]
+                 }
           ]
-        },
+    },
     {
        "id": "https://prob11if.s3.eu-west-2.amazonaws.com/manifests/1148/prob_11_1148_manifest.json",
           "type": "Manifest",
@@ -79,9 +77,9 @@
             {
               "label" : {"en" : ["Description"]},
               "value" : {"en" : ["Name of Register: Norfolk. Quire numbers: 589-645"]}
-            },
-            {
-              "homepage": [
+            }
+          ],
+          "homepage": [
                    {           
                     "id": "https://discovery.nationalarchives.gov.uk/details/r/C1904451",
                     "type": "Text",
@@ -89,9 +87,7 @@
                     "format": "text/html",
                     "language": ["en"]
                   }
-              ]
-            }
           ]
-        }
+    }
   ]
 }
